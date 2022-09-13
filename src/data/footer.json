@@ -1,0 +1,263 @@
+[
+  {
+    "getToKnow":[
+      {
+        "id":1,
+        "name": "Careers"
+      },
+      {
+        "id":2,
+        "name": "Blog"
+      },
+      {
+        "id":3,
+        "name": "About Amazon"
+      },
+      {
+        "id":4,
+        "name": "Investor Relations"
+      },
+      {
+        "id":5,
+        "name": "Amazon Device"
+      },
+      {
+        "id":6,
+        "name": "Amazon Science"
+      }
+    ],
+
+    "makeMoney":[
+      {
+        "id":1,
+        "name": "Sell products on Amazon"
+      },
+      {
+        "id":2,
+        "name": "Sell on Amazon Business"
+      },
+      {
+        "id":3,
+        "name": "Sell apps on Amazon"
+      },
+      {
+        "id":4,
+        "name": "Become an Affiliate"
+      },
+      {
+        "id":5,
+        "name": "Advertise Your Products"
+      },
+      {
+        "id":6,
+        "name": "Self-Publish with Use"
+      },
+      {
+        "id":7,
+        "name": "Host an Amazon Hub"
+      },
+      {
+        "id":8,
+        "name": "See More Make Money with Us"
+      }
+    ],
+
+    "amazonPayment":[
+      {
+        "id":1,
+        "name": "Amazon Business Card"
+      },
+      {
+        "id":2,
+        "name": "Shop with Points"
+      },
+      {
+        "id":3,
+        "name": "Reload Your Balance"
+      },
+      {
+        "id":4,
+        "name": "Amazon Currency Converter"
+      }
+    ],
+
+    "helpYou":[
+      {
+        "id":1,
+        "name": "Amazon and COVID-19"
+      },
+      {
+        "id":2,
+        "name": "Your Account"
+      },
+      {
+        "id":3,
+        "name": "Your Orders"
+      },
+      {
+        "id":4,
+        "name": "Shipping Rates & Policies"
+      },
+      {
+        "id":5,
+        "name": "Returns & Replacements"
+      },
+      {
+        "id":6,
+        "name": "Manage Your Content and Devices"
+      },
+      {
+        "id":7,
+        "name": "Amazon Assistant"
+      },
+      {
+        "id":8,
+        "name": "Help"
+      }
+    ],
+
+    "amazonServices":[
+      {
+        "id": 1 ,
+        "name": "Amazon Music" ,
+        "title":  "Stream millions of songs"
+      },
+      {
+        "id": 2 ,
+        "name":  "Amazon Advertising",
+        "title": "Find, attract, and engage customers" 
+      },
+      {
+        "id": 3 ,
+        "name": "Amazon Drive" ,
+        "title":  "Cloud storage from Amazon"
+      },
+      {
+        "id": 4 ,
+        "name": "6pm" ,
+        "title":  "Score deals on fashion brands"
+      },
+      {
+        "id": 5 ,
+        "name": "AbeBooks" ,
+        "title":  "Books, art & collectibles"
+      },
+      {
+        "id":  6,
+        "name": "ACX" ,
+        "title": "Audiobook Publishing Made Easy" 
+      },
+      {
+        "id": 7 ,
+        "name":  "Alexa",
+        "title":  "Actionable Analytics for the Web"
+      },
+      {
+        "id": 8 ,
+        "name": "Sell on Amazon" ,
+        "title":  "Start a Selling Account"
+      },
+      {
+        "id": 9 ,
+        "name":  "Amazon Business",
+        "title":  "Everything For Your Business"
+      },
+      {
+        "id": 10 ,
+        "name":  "AmazonGlobal",
+        "title":  "Ship Orders Internationally"
+      },
+      {
+        "id": 11 ,
+        "name":  "Home Services",
+        "title":  "Experienced Pros Happiness Guarantee"
+      },
+      {
+        "id": 12 ,
+        "name": "Amazon Ignite" ,
+        "title":  "Sell your original Digital Educational Resources"
+      },
+      {
+        "id": 13 ,
+        "name": "Amazon Web Services" ,
+        "title":  "Scalable Cloud Computing Services"
+      },
+      {
+        "id":14  ,
+        "name":  "Audible",
+        "title":  "Listen to Books & Original Audio Performances"
+      },
+      {
+        "id":15  ,
+        "name":  "Book Depository",
+        "title":  "Books With Free Delivery Worldwide"
+      },
+      {
+        "id": 16 ,
+        "name": "Box Office Mojo" ,
+        "title":  "Find Movie Box Office Data"
+      },
+      {
+        "id": 17 ,
+        "name": "ComiXology" ,
+        "title":  "Thousands of Digital Comics"
+      },
+      {
+        "id": 18 ,
+        "name": "DPReview" ,
+        "title":  "Digital  Photography"
+      },
+      {
+        "id": 19 ,
+        "name":  "Fabric",
+        "title":  "Sewing, Quilting  & Knitting"
+      },
+      {
+        "id": 20 ,
+        "name":  "Goodreads",
+        "title":  "Book reviews & recommendations"
+      },
+      {
+        "id": 21 ,
+        "name":  "IMDb",
+        "title":  "Movies, TV & Celebrities"
+      },
+      {
+        "id": 22 ,
+        "name": "IMDbPro" ,
+        "title":  "Get Info Entertainment Professionals Need"
+      },
+      {
+        "id": 23 ,
+        "name": "Kindle Direct Publishing" ,
+        "title":  "Indie Digital & Print Publishing Made Easy"
+      },
+      {
+        "id": 24 ,
+        "name": "Prime Video Direct" ,
+        "title":  "Video Distribution Made Easy"
+      },
+      {
+        "id": 25 ,
+        "name":  "Shopbop",
+        "title":  "Designer Fashion Brands"
+      },
+      {
+        "id": 26 ,
+        "name": "Woot!" ,
+        "title":  "Deals and Shenanigans"
+      },
+      {
+        "id": 27 ,
+        "name": "Zappos" ,
+        "title":  "Shoes & Clothing"
+      },
+      {
+        "id": 28 ,
+        "name": "Ring" ,
+        "title":  "Smart Home Security Systems"
+      }
+    ]
+
+  }
+]
