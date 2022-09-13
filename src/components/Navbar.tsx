@@ -35,10 +35,25 @@ export default function Navbar() {
             className="flex flex-col "
             placeholder="All"
             data={[
-              { value: "react", label: "kashgfgsalfgasfhalshfl" },
-              { value: "ng", label: "Angular" },
-              { value: "svelte", label: "Svelte" },
-              { value: "vue", label: "Vue" },
+              { value: "departments", label: "All Departments" },
+              { value: "arts", label: "Arts & Crafts" },
+              { value: "automotive", label: "Automotive" },
+              { value: "baby", label: "Baby" },
+              { value: "beauty", label: "Beauty & Personal Care" },
+              { value: "books", label: "Books" },
+              { value: "boys", label: "Boy's Fashion" },
+              { value: "computer", label: "Computers" },
+              { value: "deals", label: "Deals" },
+              { value: "music", label: "Digital Music" },
+              { value: "elektronics", label: "Electronics" },
+              { value: "girls", label: "Girl's Fashion" },
+              { value: "health", label: "Health & Household" },
+              { value: "home", label: "Home & Kitchen" },
+              { value: "industrial", label: "Industrial & Scientific" },
+              { value: "kindle", label: "Kindle Store" },
+              { value: "luggage", label: "Luggage" },
+              { value: "mens", label: "Men's Fashion" },
+              { value: "movies", label: "Movies & TV" },
             ]}
           />
           {/* Text input */}
