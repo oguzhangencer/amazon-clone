@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Amazon Music" ,
+    "description":  "Stream millions of songs"
+  },
+  {
+    "title":  "Amazon Advertising",
+    "description": "Find, attract, and engage customers" 
+  },
+  {
+    "title": "Amazon Drive" ,
+    "description":  "Cloud storage from Amazon"
+  },
+  {
+    "title": "6pm" ,
+    "description":  "Score deals on fashion brands"
+  },
+  {
+    "title": "AbeBooks" ,
+    "description":  "Books, art & collectibles"
+  },
+  {
+    "title": "ACX" ,
+    "description": "Audiobook Publishing Made Easy" 
+  },
+  {
+    "title":  "Alexa",
+    "description":  "Actionable Analytics for the Web"
+  },
+  {
+    "title": "Sell on Amazon" ,
+    "description":  "Start a Selling Account"
+  },
+  {
+    "title":  "Amazon Business",
+    "description":  "Everything For Your Business"
+  },
+  {
+    "id": 9 ,
+    "title":  "AmazonGlobal",
+    "description":  "Ship Orders Internationally"
+  },
+  {
+    "title":  "Home Services",
+    "description":  "Experienced Pros Happiness Guarantee"
+  },
+  {
+    "title": "Amazon Ignite" ,
+    "description":  "Sell your original Digital Educational Resources"
+  },
+  {
+    "title": "Amazon Web Services" ,
+    "description":  "Scalable Cloud Computing Services"
+  },
+  {
+    "title":  "Audible",
+    "description":  "Listen to Books & Original Audio Performances"
+  },
+  {
+    "title":  "Book Depository",
+    "description":  "Books With Free Delivery Worldwide"
+  },
+  {
+    "title": "Box Office Mojo" ,
+    "description":  "Find Movie Box Office Data"
+  },
+  {
+    "title": "ComiXology" ,
+    "description":  "Thousands of Digital Comics"
+  },
+  {
+    "title": "DPReview" ,
+    "description":  "Digital  Photography"
+  },
+  {
+    "title":  "Fabric",
+    "description":  "Sewing, Quilting  & Knitting"
+  },
+  {
+    "title":  "Goodreads",
+    "description":  "Book reviews & recommendations"
+  },
+  {
+    "title":  "IMDb",
+    "description":  "Movies, TV & Celebrities"
+  },
+  {
+    "title": "IMDbPro" ,
+    "description":  "Get Info Entertainment Professionals Need"
+  },
+  {
+    "title": "Kindle Direct Publishing" ,
+    "description":  "Indie Digital & Print Publishing Made Easy"
+  },
+  {
+    "title": "Prime Video Direct" ,
+    "description":  "Video Distribution Made Easy"
+  },
+  {
+    "title":  "Shopbop",
+    "description":  "Designer Fashion Brands"
+  },
+  {
+    "title": "Woot!" ,
+    "description":  "Deals and Shenanigans"
+  },
+  {
+    "title": "Zappos" ,
+    "description":  "Shoes & Clothing"
+  },
+  {
+    "title": "Ring" ,
+    "description":  "Smart Home Security Systems"
+  }
+]
