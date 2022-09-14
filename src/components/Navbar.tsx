@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <div className="flex flex-col">
       {/* Navbar Up */}
-      <div className=" bg-gray-900 h-14 flex items-center justify-between py-2 px-4 gap-x-4">
+      <div className=" bg-gray-900 h-14 flex items-center justify-between py-2 px-4 gap-x-8">
         {/* Navbar Left */}
         <div className="flex justify-center items-center h-full gap-x-4">
           {/* Amazon Logo */}
