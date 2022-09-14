@@ -18,7 +18,7 @@ export default function Navbar() {
               alt="amazonLogo"
             />
           </Link>
-          <div className="flex items-center gap-x-1 outline hover:outline-white">
+          <div className="flex items-center gap-x-1  hover:border-white">
             {/* Select Country */}
             <BsGeoAlt color="white" />
             <div className="flex flex-col ">
@@ -78,11 +78,11 @@ export default function Navbar() {
         {/* Navbar Right */}
         <div className="flex justify-center items-center h-full gap-x-6 ">
           {/* Country */}
-          <div className="flex flex-col outline hover:outline-white">
+          <div className="flex flex-col  hover:border-white">
             <Text className="text-sm font-bold text-white">EN</Text>
           </div>
           {/* Sign in  or  Log in */}
-          <div className="flex flex-col  outline hover:outline-white">
+          <div className="flex flex-col   hover:border-white">
             <Text className="text-sm font-thin text-left text-white">
               Hello, sign in
             </Text>
@@ -91,14 +91,14 @@ export default function Navbar() {
             </Text>
           </div>
           {/* Orders */}
-          <div className="flex flex-col outline hover:outline-white">
+          <div className="flex flex-col  hover:border-white">
             <Text className="text-sm font-thin text-left text-white">
               Returns
             </Text>
             <Text className="text-sm font-bold text-white">& Orders</Text>
           </div>
           {/* Cart */}
-          <div className="flex items-center gap-x-1 outline">
+          <div className="flex items-center gap-x-1 ">
             <BsCart3 color="white" size={30} />
             <div className="flex flex-col">
               <Text className="text-sm font-bold text-white">
