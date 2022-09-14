@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Button, Select, Text, TextInput } from "@mantine/core";
+import { NavLink } from "react-router-dom";
 import { BsList, BsCart3, BsSearch, BsGeoAlt } from "react-icons/bs";
 
 export default function Navbar() {
@@ -100,7 +101,9 @@ export default function Navbar() {
           <div className="flex items-center gap-x-1 outline">
             <BsCart3 color="white" size={30} />
             <div className="flex flex-col">
-              <Text className="text-sm font-bold text-white">Cart</Text>
+              <Text className="text-sm font-bold text-white">
+                <NavLink to="/cart">Cart</NavLink>
+              </Text>
             </div>
           </div>
         </div>
