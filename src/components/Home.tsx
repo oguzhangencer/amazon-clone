@@ -1,9 +1,12 @@
-import React from 'react'
+import { Container } from "@mantine/core";
+import Products from "./Products";
 
 export default function Home() {
   return (
-    <div>
-      
-    </div>
-  )
+    <>
+      <Container className="md:container md:mx-auto">
+        <Products />
+      </Container>
+    </>
+  );
 }
