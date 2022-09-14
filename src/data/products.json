@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "name": "Headsets",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Headset_1x._SY116_CB667159060_.jpg",
+    "price": 20,
+    "rating": 3.5
+  },
+  {
+    "id": 2,
+    "name": "Keyboards",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Keyboard_1x._SY116_CB667159063_.jpg",
+    "price": 35,
+    "rating":4.0
+  },
+  {
+    "id": 3,
+    "name": "Computer mice",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mouse_1x._SY116_CB667159063_.jpg",
+    "price": 15,
+    "rating":4.2
+  },
+  {
+    "id": 4,
+    "name": "Chairs",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Chair_1x._SY116_CB667159060_.jpg",
+    "price": 125,
+    "rating":2.5
+  },
+  {
+    "id": 5,
+    "name": "Computer & Accessories",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/computer120x._SY85_CB468850970_.jpg",
+    "price": 300,
+    "rating":3.5
+  },
+  {
+    "id": 6,
+    "name": "Videos Games",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2019/August/DashboardCard/PS4_120X._SY85_CB438749318_.jpg",
+    "price": 75,
+    "rating":4.2
+  },
+  {
+    "id": 7,
+    "name": "Toys & Games",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/Toys120X._SY85_CB468851693_.jpg",
+    "price": 95,
+    "rating":3.5
+  },
+  {
+    "id": 8,
+    "name": "Dresses",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/Fuji_dash_dress_1X._SY304_CB626369146_.jpg",
+    "price": 60,
+    "rating":2.5
+  },
+  {
+    "id": 9,
+    "name": "Personal Care",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/GW_CONS_AUS_HPC_HPCEssentials_CatCard_Desktop1x._SY304_CB627424361_.jpg",
+    "price":70 ,
+    "rating":3.4
+  },
+  {
+    "id": 10,
+    "name": "Easy Returns",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Returns_1x._SY304_CB432774714_.jpg",
+    "price": 37,
+    "rating":3.4
+  },
+  {
+    "id": 11,
+    "name": "Pure Daily Nanosteamer products",
+    "imgUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/417Jy5wVYlL._AC_SY230_.jpg",
+    "price": 150,
+    "rating":3.8
+  },
+  {
+    "id": 12,
+    "name": "Electronics",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg" ,
+    "price": 600,
+    "rating":4.0
+  },
+  {
+    "id": 13,
+    "name": "Computers & Accessories",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_PC_1x._SY304_CB431800965_.jpg",
+    "price":100 ,
+    "rating":3.5
+  },
+  {
+    "id": 14,
+    "name": "Create with strip lights",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_StripLighting_379x304_1X_en_US._SY304_CB418597476_.jpg",
+    "price": 20,
+    "rating":3.5
+  },
+  {
+    "id": 15,
+    "name": "Shop Laptops & Tablets",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Laptops_379x304_1X_en_US._SY304_CB418608471_.jpg",
+    "price": 700,
+    "rating": 3.1
+  },
+  {
+    "id": 16,
+    "name": "For your Fitness Needs",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Fitness_1X._SY304_CB639748186_.jpg" ,
+    "price": 80,
+    "rating":4.0
+  },
+  {
+    "id": 17,
+    "name": "New arrivals in Toys",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Toys_1X._SY304_CB639759658_.jpg",
+    "price": 35,
+    "rating":4.0
+  },
+  {
+    "id": 18,
+    "name":"Smart Watches" ,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg",
+    "price":500 ,
+    "rating":3.4
+  },
+  {
+    "id": 19,
+    "name": "Apparel",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Apparel_1x._SY116_CB667159060_.jpg",
+    "price": 65,
+    "rating":4.2
+  },
+  {
+    "id": 20,
+    "name":"Hats" ,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Hat_1x._SY116_CB667159060_.jpg",
+    "price": 10,
+    "rating":3.2
+  },
+  {
+    "id": 21,
+    "name":"Action figures" ,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Figure_1x._SY116_CB667159060_.jpg",
+    "price": 26,
+    "rating":3.8
+  },
+  {
+    "id": 22,
+    "name":"Mugs" ,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mug_1x._SY116_CB667159063_.jpg",
+    "price":15 ,
+    "rating":4.2
+  },
+  {
+    "id": 23,
+    "name": " E-readers",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Desktop_Dash_Kindle_1x._SY304_CB639752818_.jpg",
+    "price": 165,
+    "rating":4.8
+  }
+]
