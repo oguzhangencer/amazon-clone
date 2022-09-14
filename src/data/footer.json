@@ -1,18 +1,18 @@
 [
   {
-    "title": "getToKnow",
+    "title": "Get to Know Us",
     "items": ["Careers", "Blog", "About Amazon", "Investor Relations", "Amazon Device", "Amazon Science"]
   },
   {
-    "title": "makeMoney",
+    "title": "Make Money with Us",
     "items": ["Sell products on Amazon", "Sell on Amazon Business", "Sell apps on Amazon", "Become an Affiliate", "Advertise Your Products", "Self-Publish with Use", "Host an Amazon Hub", "See More Make Money with Us"]
   },
   {
-    "title": "amazonPayment",
+    "title": "Amazon Payment Products",
     "items": ["Amazon Business Card", "Shop with Points", "Reload Your Balance", "Amazon Currency Converter"]
   },
   {
-    "title": "helpYou",
+    "title": "Let Us Help You",
     "items": ["Amazon and COVID-19", "Your Account", "Your Orders", "Shipping Rates & Policies", "Returns & Replacements", "Manage Your Content and Devices", "Amazon Assistant", "Help"]
   }
   
