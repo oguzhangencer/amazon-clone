@@ -2,82 +2,114 @@
     {
       "id":1,
       "name":"Pillow",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71iArV-kskL._AC_SY200_.jpg"
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71iArV-kskL._AC_SY200_.jpg",
+      "price": 20,
+      "rating": 3.5
     },
     {
       "id":2,
       "name":"Portable Relax",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61XYX1tzoTL._AC_SY200_.jpg" 
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61XYX1tzoTL._AC_SY200_.jpg",
+      "price": 350,
+      "rating":4.0
     },
     {
       "id":3,
       "name":"Candle",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51bXjKtMQ6L._AC_SY200_.jpg" 
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51bXjKtMQ6L._AC_SY200_.jpg" ,
+      "price": 15,
+      "rating":4.2
     },
     {
       "id":4,
       "name":"Pillows",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51bXjKtMQ6L._AC_SY200_.jpg" 
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61VxFel4T9L._AC_SY200_.jpg" ,
+      "price": 125,
+      "rating":2.5
     },
     {
       "id":5,
       "name":"Door Draft Stopper",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71FGSz-g+BL._AC_SY200_.jpg"
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71FGSz-g+BL._AC_SY200_.jpg",
+      "price": 10,
+      "rating":3.5
     },
     {
       "id":6,
-      "name":"Flameless LED Tea Light Candles",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81xiJRmOwUL._AC_SY200_.jpg" 
+      "name":"LED Light Candles",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81xiJRmOwUL._AC_SY200_.jpg" ,
+      "price": 75,
+      "rating":4.2
     },
     {
       "id":7,
       "name":"Digital Alarm Clock",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71dcYplfvsS._AC_SY200_.jpg" 
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71dcYplfvsS._AC_SY200_.jpg" ,
+      "price": 145,
+      "rating":3.5
     },
     {
       "id":8,
       "name":" Throw Pillows",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61D4O85d+oL._AC_SY200_.jpg" 
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61D4O85d+oL._AC_SY200_.jpg" ,
+      "price": 260,
+      "rating":2.5
     },
     {
       "id":9,
-      "name":"Bedding Throw Pillows",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61VxFel4T9L._AC_SY200_.jpg" 
+      "name":"Bedding Pillows",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61VxFel4T9L._AC_SY200_.jpg" ,
+      "price":175 ,
+      "rating":3.4
     },
     {
       "id":10,
       "name":"Organizer",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71CDFmK2qNS._AC_SY200_.jpg" 
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71CDFmK2qNS._AC_SY200_.jpg" ,
+      "price": 60,
+      "rating":3.4
     },
     {
       "id":11,
-      "name":"Pillow Covers Cushion Case Polyester",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/710xU17suIL._AC_SY200_.jpg"
+      "name":"Pillow Covers",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/710xU17suIL._AC_SY200_.jpg",
+      "price": 300,
+      "rating":3.8
     },
     {
       "id":12,
       "name":"Glass Window Film",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/612xTdtHVfL._AC_SY200_.jpg" 
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/612xTdtHVfL._AC_SY200_.jpg"  ,
+      "price": 600,
+      "rating":4.0
     },
     {
       "id":13,
-      "name":" Swirls for Thanksgiving Hanging Decorations",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81w+ZcNjlVL._AC_SY200_.jpg" 
+      "name":" Swirls Decorations",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81w+ZcNjlVL._AC_SY200_.jpg" ,
+      "price":100 ,
+      "rating":3.5
     },
     {
       "id":14,
-      "name":"Bamboo Book Stand",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71Mda9UuJhL._AC_SY200_.jpg" 
+      "name":"Bamboo Stand",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71Mda9UuJhL._AC_SY200_.jpg" ,
+      "price": 135,
+      "rating":3.5
     },
     {
       "id":15,
-      "name":"Blackout Grommet Window Curtain for Livingroom",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61dhzAmqvOL._AC_SY200_.jpg" 
+      "name":"Black Curtain",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61dhzAmqvOL._AC_SY200_.jpg" ,
+      "price": 700,
+      "rating": 3.1
     },
     {
       "id":16,
-      "name":"Curtains for Bedroom",
-      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/617gWwhOpQL._AC_SY200_.jpg" 
+      "name":"Gray Curtains",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/617gWwhOpQL._AC_SY200_.jpg" ,
+      "price": 850,
+      "rating":4.0
     }
     
 ]

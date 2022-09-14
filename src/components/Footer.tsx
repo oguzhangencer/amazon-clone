@@ -7,11 +7,14 @@ export default function Footer() {
   const [scroll, scrollTo] = useWindowScroll();
 
   return (
-    <div className="absolute inset-x-0 bottom-0 flex flex-col">
+    <div>
       {/* Amazon Footer */}
       <div className="bg-slate-700 hover:bg-slate-600 flex items-center justify-center scroll-auto">
         <Group position="center">
-          <Button className="text-white" onClick={() => scrollTo({ y: 0 })}>
+          <Button
+            className="text-white hover:bg-slate-600"
+            onClick={() => scrollTo({ y: 0 })}
+          >
             Back to top
           </Button>
         </Group>
@@ -28,12 +31,10 @@ export default function Footer() {
           </div>
         ))}
       </div>
-      <hr className="bg-slate-700" />
-      <div className="bg-slate-800"></div>
       {/* Description Footer */}
-      <div className="bg-gray-900 h-96 grid grid-cols-7 items-center py-5 px-500px">
+      <div className="bg-gray-900 h-96 grid grid-cols-7 items-center justify-center py-5 px-20">
         {amazonServices?.map((item) => (
-          <div className="flex flex-col justify-center text-slate-300 hover:underline ">
+          <div className="flex flex-col justify-center text-slate-300 hover:underline">
             <Text className="text-xs font-bold">{item?.title}</Text>
             <div className="flex flex-col ">
               <Text className="text-xs font-thin ">{item.description}</Text>
