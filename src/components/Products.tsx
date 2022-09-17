@@ -1,7 +1,6 @@
 import homeDecore from "../data/homeDecore.json";
 import { IconStar } from "@tabler/icons";
-import { Card, Image, Text, Badge, Button, Group } from "@mantine/core";
-import { useSetState } from "@mantine/hooks";
+import { Card, Image, Text, Badge, Button } from "@mantine/core";
 
 export default function Products() {
   return (
