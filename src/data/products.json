@@ -1,163 +1,246 @@
 [
-  {
-    "id": 1,
-    "name": "Headsets",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Headset_1x._SY116_CB667159060_.jpg",
-    "price": 20,
-    "rating": 3.5
-  },
-  {
-    "id": 2,
-    "name": "Keyboards",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Keyboard_1x._SY116_CB667159063_.jpg",
-    "price": 35,
-    "rating":4.0
-  },
-  {
-    "id": 3,
-    "name": "Computer mice",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mouse_1x._SY116_CB667159063_.jpg",
-    "price": 15,
-    "rating":4.2
-  },
-  {
-    "id": 4,
-    "name": "Chairs",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Chair_1x._SY116_CB667159060_.jpg",
-    "price": 125,
-    "rating":2.5
-  },
-  {
-    "id": 5,
-    "name": "Computer & Accessories",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/computer120x._SY85_CB468850970_.jpg",
-    "price": 300,
-    "rating":3.5
-  },
-  {
-    "id": 6,
-    "name": "Videos Games",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2019/August/DashboardCard/PS4_120X._SY85_CB438749318_.jpg",
-    "price": 75,
-    "rating":4.2
-  },
-  {
-    "id": 7,
-    "name": "Toys & Games",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/Toys120X._SY85_CB468851693_.jpg",
-    "price": 95,
-    "rating":3.5
-  },
-  {
-    "id": 8,
-    "name": "Dresses",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/Fuji_dash_dress_1X._SY304_CB626369146_.jpg",
-    "price": 60,
-    "rating":2.5
-  },
-  {
-    "id": 9,
-    "name": "Personal Care",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/GW_CONS_AUS_HPC_HPCEssentials_CatCard_Desktop1x._SY304_CB627424361_.jpg",
-    "price":70 ,
-    "rating":3.4
-  },
-  {
-    "id": 10,
-    "name": "Easy Returns",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Returns_1x._SY304_CB432774714_.jpg",
-    "price": 37,
-    "rating":3.4
-  },
-  {
-    "id": 11,
-    "name": "Pure Daily Nanosteamer products",
-    "imgUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/417Jy5wVYlL._AC_SY230_.jpg",
-    "price": 150,
-    "rating":3.8
-  },
-  {
-    "id": 12,
-    "name": "Electronics",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg" ,
-    "price": 600,
-    "rating":4.0
-  },
-  {
-    "id": 13,
-    "name": "Computers & Accessories",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_PC_1x._SY304_CB431800965_.jpg",
-    "price":100 ,
-    "rating":3.5
-  },
-  {
-    "id": 14,
-    "name": "Create with strip lights",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_StripLighting_379x304_1X_en_US._SY304_CB418597476_.jpg",
-    "price": 20,
-    "rating":3.5
-  },
-  {
-    "id": 15,
-    "name": "Shop Laptops & Tablets",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Laptops_379x304_1X_en_US._SY304_CB418608471_.jpg",
-    "price": 700,
-    "rating": 3.1
-  },
-  {
-    "id": 16,
-    "name": "For your Fitness Needs",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Fitness_1X._SY304_CB639748186_.jpg" ,
-    "price": 80,
-    "rating":4.0
-  },
-  {
-    "id": 17,
-    "name": "New arrivals in Toys",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Toys_1X._SY304_CB639759658_.jpg",
-    "price": 35,
-    "rating":4.0
-  },
-  {
-    "id": 18,
-    "name":"Smart Watches" ,
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg",
-    "price":500 ,
-    "rating":3.4
-  },
-  {
-    "id": 19,
-    "name": "Apparel",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Apparel_1x._SY116_CB667159060_.jpg",
-    "price": 65,
-    "rating":4.2
-  },
-  {
-    "id": 20,
-    "name":"Hats" ,
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Hat_1x._SY116_CB667159060_.jpg",
-    "price": 10,
-    "rating":3.2
-  },
-  {
-    "id": 21,
-    "name":"Action figures" ,
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Figure_1x._SY116_CB667159060_.jpg",
-    "price": 26,
-    "rating":3.8
-  },
-  {
-    "id": 22,
-    "name":"Mugs" ,
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mug_1x._SY116_CB667159063_.jpg",
-    "price":15 ,
-    "rating":4.2
-  },
-  {
-    "id": 23,
-    "name": " E-readers",
-    "imgUrl": "https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Desktop_Dash_Kindle_1x._SY304_CB639752818_.jpg",
-    "price": 165,
-    "rating":4.8
-  }
+    {
+      "id":1,
+      "name":"Pillow",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71iArV-kskL._AC_SY200_.jpg",
+      "price": 20,
+      "rating": 3.5,
+      "category": "Home Decore"
+    },
+    {
+      "id":2,
+      "name":"Portable Relax",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61XYX1tzoTL._AC_SY200_.jpg",
+      "price": 350,
+      "rating":4.0,
+      "category": "Home Decore"
+    },
+    {
+      "id":3,
+      "name":"Candle",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51bXjKtMQ6L._AC_SY200_.jpg" ,
+      "price": 15,
+      "rating":4.2,
+      "category": "Home Decore"
+    },
+    {
+      "id":4,
+      "name":"Pillows",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61VxFel4T9L._AC_SY200_.jpg" ,
+      "price": 125,
+      "rating":2.5,
+      "category": "Home Decore"
+    },
+    {
+      "id":5,
+      "name":"Door Draft Stopper",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71FGSz-g+BL._AC_SY200_.jpg",
+      "price": 10,
+      "rating":3.5,
+      "category": "Home Decore"
+    },
+    {
+      "id":6,
+      "name":"LED Light Candles",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81xiJRmOwUL._AC_SY200_.jpg" ,
+      "price": 75,
+      "rating":4.2,
+      "category": "Home Decore"
+    },
+    {
+      "id":7,
+      "name":"Digital Alarm Clock",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71dcYplfvsS._AC_SY200_.jpg" ,
+      "price": 145,
+      "rating":3.5,
+      "category": "Home Decore"
+    },
+    {
+      "id":8,
+      "name":" Throw Pillows",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61D4O85d+oL._AC_SY200_.jpg" ,
+      "price": 260,
+      "rating":2.5,
+      "category": "Home Decore"
+    },
+    {
+      "id":9,
+      "name":"Bedding Pillows",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61VxFel4T9L._AC_SY200_.jpg" ,
+      "price":175 ,
+      "rating":3.4,
+      "category": "Home Decore"
+    },
+    {
+      "id":10,
+      "name":"Organizer",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71CDFmK2qNS._AC_SY200_.jpg" ,
+      "price": 60,
+      "rating":3.4,
+      "category": "Home Decore"
+    },
+    {
+      "id":11,
+      "name":"Pillow Covers",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/710xU17suIL._AC_SY200_.jpg",
+      "price": 300,
+      "rating":3.8,
+      "category": "Home Decore"
+    },
+    {
+      "id":12,
+      "name":"Glass Window Film",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/612xTdtHVfL._AC_SY200_.jpg"  ,
+      "price": 600,
+      "rating":4.0,
+      "category": "Home Decore"
+    },
+    {
+      "id":13,
+      "name":" Swirls Decorations",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81w+ZcNjlVL._AC_SY200_.jpg" ,
+      "price":100 ,
+      "rating":3.5,
+      "category": "Home Decore"
+    },
+    {
+      "id":14,
+      "name":"Bamboo Stand",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71Mda9UuJhL._AC_SY200_.jpg" ,
+      "price": 135,
+      "rating":3.5,
+      "category": "Home Decore"
+    },
+    {
+      "id":15,
+      "name":"Black Curtain",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61dhzAmqvOL._AC_SY200_.jpg" ,
+      "price": 700,
+      "rating": 3.1,
+      "category": "Home Decore"
+    },
+    {
+      "id":16,
+      "name":"Gray Curtains",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/617gWwhOpQL._AC_SY200_.jpg" ,
+      "price": 850,
+      "rating":4.0,
+      "category": "Home Decore"
+    },
+    {
+      "id":17,
+      "name":"Book 1",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/610JLsePAyL._AC_SY200_.jpg",
+      "price": 20,
+      "rating": 3.5,
+      "category": "Book"
+  
+    },
+    {
+      "id":18,
+      "name":"Book 2",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61k2zaowp8L._AC_SY200_.jpg" ,"price": 15,
+      "rating":4.2,
+      "category": "Book"
+    },
+    {
+      "id":19,
+      "name":"Book 3",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71E3+TEnY8L._AC_SY200_.jpg" ,"price": 10,
+      "rating":3.5,
+      "category": "Book"
+    },
+    {
+      "id":20,
+      "name":"Book 4",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71cv-b7-DzL._AC_SY200_.jpg","price": 75,
+      "rating":4.2,
+      "category": "Book"
+    },
+    {
+      "id":21,
+      "name":"Book 5",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/815boS0iOZL._AC_SY200_.jpg" ,"price": 45,
+      "rating":3.5,
+      "category": "Book"
+    },
+    {
+      "id":22,
+      "name":"Book 6",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71mAQcWAEzL._AC_SY200_.jpg" ,"price": 60,
+      "rating":2.5,
+      "category": "Book"
+    },
+    {
+      "id":23,
+      "name":"Book 7",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/8129BWxSBVL._AC_SY200_.jpg" ,"price":75 ,
+      "rating":3.4,
+      "category": "Book"
+    },
+    {
+      "id":24,
+      "name":"Book 8",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61KAU68KoxL._AC_SY200_.jpg" ,"price": 60,
+      "rating":3.4,
+      "category": "Book"
+    },
+    {
+      "id":25,
+      "name":"Book 9",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61oRr1Wuk6L._AC_SY200_.jpg" ,"price": 30,
+      "rating":3.8,
+      "category": "Book"
+    },
+    {
+      "id":26,
+      "name":"Book 10",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/619M-4xNINL._AC_SY200_.jpg","price": 60,
+      "rating":4.0,
+      "category": "Book"
+    },
+    {
+      "id":27,
+      "name":"Book 11",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61Q5Om2LV8S._AC_SY200_.jpg" ,"price":10 ,
+      "rating":3.5,
+      "category": "Book"
+    },
+    {
+      "id":28,
+      "name":"Book 12",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81wgcld4wxL._AC_SY200_.jpg" ,"price": 35,
+      "rating":3.5,
+      "category": "Book"
+    },
+    {
+      "id":29,
+      "name":"Book 13",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/812lo4CiAnL._AC_SY200_.jpg","price": 70,
+      "rating": 3.1,
+      "category": "Book" 
+    },
+    {
+      "id":30,
+      "name":"Book 14",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61+Uy5FiuLL._AC_SY200_.jpg" ,
+      "price": 50,
+      "rating":4.0,
+      "category": "Book"
+    },
+    {
+      "id":31,
+      "name":"Book 15",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71d9mYKO3cL._AC_SY200_.jpg","price": 80,
+      "rating":4.0,
+      "category": "Book" 
+    },
+    {
+      "id":32,
+      "name":"Book 16",
+      "imgUrl":"https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/811jW-BHHIL._AC_SY200_.jpg","price": 85,
+      "rating":4.0,
+      "category": "Book"
+    }
+    
 ]
