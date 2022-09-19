@@ -4,7 +4,7 @@ type CartAction =
 | { type: "addProduct", payload: Product}
 | { type: "deleteProduct", payload: Product}
 
-export const CartReducer = (state: CartState, action: CartAction): => {
+export const CartReducer = (state: CartState, action: CartAction) => {
   switch (action.type) {
     case "addProduct":
       return {
