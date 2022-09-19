@@ -5,7 +5,7 @@ import { useContext } from "react";
 import { Product } from "../interfaces/interface";
 
 interface Props {
-  id: number;
+  id: string;
   imgUrl: string;
   name: string;
   price: string;
